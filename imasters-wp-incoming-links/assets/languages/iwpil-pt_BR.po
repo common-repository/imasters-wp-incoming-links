@@ -1,0 +1,274 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iMasters WP Incoming Links\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-16 10:17-0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: w3invent <daniel.w3invent@gmail.com>\n"
+"Language-Team: Apiki <leandro@apiki.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../imasters-wp-incoming-links-default.php:23
+#: ../../imasters-wp-incoming-links-default.php:105
+msgid "iMasters WP Incoming Links"
+msgstr "iMasters WP Incoming Links"
+
+#: ../../imasters-wp-incoming-links-default.php:28
+msgid " Show incoming links registered at: "
+msgstr "Mostrar links de entrada registrados em:"
+
+#: ../../imasters-wp-incoming-links-default.php:29
+msgid "All"
+msgstr "Todos"
+
+#: ../../imasters-wp-incoming-links-default.php:30
+msgid "24h"
+msgstr "24h"
+
+#: ../../imasters-wp-incoming-links-default.php:31
+msgid "1 week"
+msgstr "1 Semana"
+
+#: ../../imasters-wp-incoming-links-default.php:32
+msgid "1 month"
+msgstr "1 mês"
+
+#: ../../imasters-wp-incoming-links-default.php:34
+msgid "Filter"
+msgstr "Filtrar"
+
+#: ../../imasters-wp-incoming-links-default.php:52
+#: ../../imasters-wp-incoming-links-googleblogsearch.php:18
+msgid "Date"
+msgstr "Data"
+
+#: ../../imasters-wp-incoming-links-default.php:53
+msgid "Times"
+msgstr "Vezes"
+
+#: ../../imasters-wp-incoming-links-default.php:54
+#: ../../imasters-wp-incoming-links-googleblogsearch.php:17
+msgid "Origin page"
+msgstr "Página de origem"
+
+#: ../../imasters-wp-incoming-links-default.php:55
+msgid "Target page"
+msgstr "Página de destino"
+
+#: ../../imasters-wp-incoming-links-default.php:74
+#: ../../imasters-wp-incoming-links-default.php:108
+msgid "Any log registed yet..."
+msgstr "Nenhum registro cadastrado."
+
+#: ../../imasters-wp-incoming-links-default.php:97
+msgid "Clear Log"
+msgstr "Limpar Log"
+
+#: ../../imasters-wp-incoming-links-default.php:98
+msgid "Clear all incomings links registered by iMasters WP Incoming links"
+msgstr "Limpa os Logs do iMasters WP Incoming Links"
+
+#: ../../imasters-wp-incoming-links-googleblogsearch.php:13
+#: ../../imasters-wp-incoming-links-googleblogsearch.php:46
+msgid "Google Blog Search"
+msgstr "Google Blog Search"
+
+#: ../../imasters-wp-incoming-links-googleblogsearch.php:13
+msgid "More &raquo;"
+msgstr "Mais &raquo;"
+
+#: ../../imasters-wp-incoming-links-googleblogsearch.php:19
+msgid "Description"
+msgstr "Descrição"
+
+#: ../../imasters-wp-incoming-links-googleblogsearch.php:27
+#: ../../imasters-wp-incoming-links-googleblogsearch.php:49
+msgid "Any log register inserted in Google Blog Search"
+msgstr "Nenhum registro cadastrado."
+
+#: ../../imasters-wp-incoming-links-settings.php:10
+msgid "Settings updated successfully."
+msgstr "Configurações Atualizadas com sucesso."
+
+#: ../../imasters-wp-incoming-links-settings.php:25
+#: ../../imasters-wp-incoming-links.php:102
+msgid "Settings"
+msgstr "Configurações"
+
+#: ../../imasters-wp-incoming-links-settings.php:32
+msgid "Open incoming links in a new page."
+msgstr "Abrir incoming links em nova página"
+
+#: ../../imasters-wp-incoming-links-settings.php:36
+msgid "Mark this option to open in a new window the origin page"
+msgstr "Marque esta opção para abrir a página de origem em uma nova janela"
+
+#: ../../imasters-wp-incoming-links-settings.php:42
+msgid "Google Blog Search Listing"
+msgstr "Listagem do Google Blog Search"
+
+#: ../../imasters-wp-incoming-links-settings.php:44
+msgid "Save changes"
+msgstr "Salvar modificações"
+
+#: ../../imasters-wp-incoming-links-settings.php:50
+msgid "How many links show at most"
+msgstr "Quantos links são mostrados"
+
+#: ../../imasters-wp-incoming-links-unistall.php:16
+#: ../../imasters-wp-incoming-links-unistall.php:20
+#: ../../imasters-wp-incoming-links-unistall.php:106
+msgid "Uninstall iMasters WP incoming Links"
+msgstr "Desinstalar iMasters WP Incoming Links"
+
+#: ../../imasters-wp-incoming-links-unistall.php:22
+msgid "Tables"
+msgstr "Tabelas"
+
+#: ../../imasters-wp-incoming-links-unistall.php:26
+#, php-format
+msgid "<li>Table '%s' has been deleted.</li>"
+msgstr "<li>Tabela '%s' foi deletada. </li>"
+
+#: ../../imasters-wp-incoming-links-unistall.php:29
+msgid "Options"
+msgstr "Opções"
+
+#: ../../imasters-wp-incoming-links-unistall.php:34
+#, php-format
+msgid "<li>Option '%s' has been deleted.</li>"
+msgstr "<li>Option '%s' foi deletada.</li>"
+
+#: ../../imasters-wp-incoming-links-unistall.php:37
+#, php-format
+msgid "<li>Error deleting Option '%s'.</li>"
+msgstr "<li>Erro ao deletar a option '%s'.</li>"
+
+#: ../../imasters-wp-incoming-links-unistall.php:54
+#, php-format
+msgid "<a href=\"%s\" class=\"button-primary\">Deactivate iMasters WP Incoming Links</a> Disable that plugin to conclude the uninstalling."
+msgstr "<a href=\"%s\" class=\"button-primary\">Desativar iMasters WP Incoming Links</a> Desabilite para concluir a desinstalação."
+
+#: ../../imasters-wp-incoming-links-unistall.php:62
+msgid "Uninstall iMasters WP Incoming Links"
+msgstr "Desinstalar iMasters WP Incoming Links"
+
+#: ../../imasters-wp-incoming-links-unistall.php:63
+msgid "Uninstaling this plugin the options and table used by iMasters WP Incoming Links will be removed."
+msgstr "Desinstalando esta plugin as options e a tabela serão removidos."
+
+#: ../../imasters-wp-incoming-links-unistall.php:65
+msgid "Warning:"
+msgstr "Atenção:"
+
+#: ../../imasters-wp-incoming-links-unistall.php:66
+msgid "This process is irreversible. We suggest that you do a database backup first."
+msgstr "Este processo é irreversível. Nós recomendamos que faça backup da banco de dados primeiro."
+
+#: ../../imasters-wp-incoming-links-unistall.php:71
+msgid "The following WordPress Options and Tables will be deleted:"
+msgstr "Todas as opções e tabelas do WordPress serão deletadas:"
+
+#: ../../imasters-wp-incoming-links-unistall.php:78
+msgid "WordPress Options"
+msgstr "Opções WordPress"
+
+#: ../../imasters-wp-incoming-links-unistall.php:79
+msgid "WordPress Tables"
+msgstr "Tabelas WordPress"
+
+#: ../../imasters-wp-incoming-links-unistall.php:103
+msgid "Yes. Uninstall iMasters WP Incoming links now"
+msgstr "Sim. Desinstalar iMasters WP Incoming Links agora"
+
+#: ../../imasters-wp-incoming-links.php:103
+msgid "iMasters WP Incoming Links Unistall"
+msgstr "Desinstalar iMasters WP Incoming Links"
+
+#: ../../imasters-wp-incoming-links.php:264
+msgid ""
+"You are about to clear incomings links registered by iMasters WP incoming links? \\n"
+" Choose [Cancel] To Cancel, [OK] to Clear."
+msgstr ""
+"Você está a ponto de limpar os links de entrada registrados por iMasters WP Incoming Links. \\n"
+" Escolha [Cancel] para Cancelar, [OK] para Limpar."
+
+#~ msgid "Origin Page"
+#~ msgstr "Página de Origem"
+#~ msgid ""
+#~ "You Are About To UNINSTALL iMasters WP incoming Links From WordPress."
+#~ "\\nThis Action Is Not Reversible.\\n\\n Choose [Cancel] To Stop, [OK] To "
+#~ "Uninstall."
+#~ msgstr ""
+#~ "Você está a ponto de desinstalar iMasters WP Incoming Links do WordPress. "
+#~ "\\nEsta ação é irreversível. \\n\\nEscolha [Cancel] para Cancelar, [OK] "
+#~ "para Desinstalar."
+#~ msgid " Referenced in: "
+#~ msgstr "Referenciado em:"
+#~ msgid "It determines how many links will be striped"
+#~ msgstr "Determina quantas vezes serão listados os links"
+#~ msgid "It drop all registers of incoming links inside your database"
+#~ msgstr ""
+#~ "Apaga todos os registros dos Links de Entrada dentro do seu banco de dados"
+#~ msgid "UNINSTALL iMasters WP incoming Links"
+#~ msgstr "Desinstalar iMasters WP Links de Entrada"
+#~ msgid "Setting Key '%s' has been deleted."
+#~ msgstr "Opção '%s' foi deletada."
+#~ msgid ""
+#~ "The logs inserted by iMasters WP Incoming Links <strong>WILL NOT</strong> "
+#~ "be deleted. You will have to delete it manually."
+#~ msgstr ""
+#~ "Os Logs inseridos por iMasters Wp Incoming Links <strong> SERÃO </"
+#~ "strong>  deletados."
+
+#, fuzzy
+#~ msgid ""
+#~ "<a href=\"%s\">Click Here</a> To Finish The Uninstallation And iMasters "
+#~ "WP Incoming Links Will Be Deactivated Automatically."
+#~ msgstr ""
+#~ "<a href=\"%s\">Clique Aqui</a> Para desisntalar e o iMasters WP Incoming "
+#~ "Links será desativado automaticamente."
+#~ msgid ""
+#~ "Deactivating iMasters WP Incoming Links plugin does not remove any data "
+#~ "that may have been created. To completely remove this plugin, you can "
+#~ "uninstall it here."
+#~ msgstr ""
+#~ "Desativando o plugin iMasters Incoming Links não serão removidados os "
+#~ "dados inseridos no banco de dados. Somente esta página remove "
+#~ "completamente o plugin."
+#~ msgid "NOTE:"
+#~ msgstr "NOTA:"
+#~ msgid ""
+#~ "The logs by iMasters WP Incoming Links <strong> WILL </strong> be deleted."
+#~ msgstr ""
+#~ "Os Logs inseridos por iMasters Wp Incoming Links <strong> SERÃO </"
+#~ "strong>  deletados."
+#~ msgid "WARNING:"
+#~ msgstr "ATENÇÃO:"
+#~ msgid ""
+#~ "Once uninstalled, this cannot be undone. You should use a Database Backup "
+#~ "plugin of WordPress to back up all the data first."
+#~ msgstr ""
+#~ "Uma vez desinstalado, não poderá ser desfeito. Faça um Backup do seu "
+#~ "banco de dados primeiro."
+#~ msgid "Yes"
+#~ msgstr "Sim"
+#~ msgid "Are you sure that want clear the logs from Database?"
+#~ msgstr "Tem certeza que quer limpar os logs do banco de dados?"
+
+#, fuzzy
+#~ msgid "&laquo;"
+#~ msgstr "Mais &raquo;"
+
+#, fuzzy
+#~ msgid "&raquo;"
+#~ msgstr "Mais &raquo;"
+
